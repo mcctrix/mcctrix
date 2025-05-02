@@ -1,12 +1,8 @@
 # Hi there, I'm Chandrashekhar Kachawa 👋
 
-<!-- <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
-</div>
 
-</br> -->
+</br> 
 </br>
-<!-- </br> -->
 
 
 # About ME 💬 :
@@ -61,12 +57,10 @@
 # Contact Me :
 
 <p>
- </br>
+</br>
 
 
-<!-- If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉. -->
-
-<!-- <div style="display: flex; gap: 1rem; justify-content: center;"> -->
+<p align="center">
 
 <a href="mailto:kachawaChandra@gmail.com">
  <img align="left" alt="Gmail" width="60" height="40" src="./assets/icons/gmail.svg" />
@@ -78,7 +72,8 @@
   <img align="left" alt="Linkedin" width="60" height="40" src="./assets/icons/x_dark.svg" />
 </a>
 
-<!-- </div> -->
+</p>
+
 
 </br>
 </br>
