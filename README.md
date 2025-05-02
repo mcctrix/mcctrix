@@ -1,7 +1,6 @@
 <h1> Hi there, I'm Chandrashekhar Kachawa <img src="./assets/Gible_Happy.gif" width="40px" height="40px"> </h1>
 
 </br> 
-</br>
 
 # About ME 💬 :
 
