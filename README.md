@@ -14,9 +14,6 @@
   <img align="right" src="./assets/IMG_20250314_122041_568.webp" alt="GIF" width="400" height="400" >
 
 ### - I'm 24 years old Full Stack Developer from India.
-<!-- <div style="position: relative; display: inline-block; width: 400px; height: 400px;"> -->
-  <!-- <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.5);"></div> -->
-<!-- </div> -->
 
 <div>
   <h3>- Learning :</h3>
@@ -67,20 +64,21 @@
  </br>
 
 
-If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
-<div style="display: flex; gap: 1rem; justify-content: center;">
+<!-- If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉. -->
+
+<!-- <div style="display: flex; gap: 1rem; justify-content: center;"> -->
 
 <a href="mailto:kachawaChandra@gmail.com">
- <img align="left" alt="Gmail" width="80" height="50" src="./assets/icons/gmail.svg" />
+ <img align="left" alt="Gmail" width="60" height="40" src="./assets/icons/gmail.svg" />
 </a>
 <a href="https://www.linkedin.com/in/chandrashekhar-kachawa-823017246/">
-  <img align="left" alt="Linkedin" width="80" height="50" src="./assets/icons/linkedin.svg" />
+  <img align="left" alt="Linkedin" width="60" height="40" src="./assets/icons/linkedin.svg" />
 </a>
 <a href="https://x.com/Ctrixdev">
-  <img align="left" alt="Linkedin" width="80" height="50" src="./assets/icons/x_dark.svg" />
+  <img align="left" alt="Linkedin" width="60" height="40" src="./assets/icons/x_dark.svg" />
 </a>
 
-</div>
+<!-- </div> -->
 
 </br>
 </br>
