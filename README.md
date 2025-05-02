@@ -1,4 +1,4 @@
-<h1> Hi there, I'm Chandrashekhar Kachawa <a href="https://rubiin.now.sh"></a><img src="./assets/Gible_Happy.gif" width="40px" height="40px"> </h1>
+# Hi there, I'm Chandrashekhar Kachawa <a href="https://rubiin.now.sh"></a><img src="./assets/Gible_Happy.gif" width="40px" height="40px">
 
 </br> 
 </br>
