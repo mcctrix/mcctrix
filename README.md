@@ -11,8 +11,9 @@
 
 # About ME 💬 :
 
-### - I'm 24 years old Full Stack Developer from India.
   <img align="right" src="./assets/IMG_20250314_122041_568.webp" alt="GIF" width="400" height="400" >
+
+### - I'm 24 years old Full Stack Developer from India.
 <!-- <div style="position: relative; display: inline-block; width: 400px; height: 400px;"> -->
   <!-- <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.5);"></div> -->
 <!-- </div> -->
@@ -33,6 +34,7 @@
   </ul>
 </div>
 
+</br>
 </br>
 </br>
 </br>
