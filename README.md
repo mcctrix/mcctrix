@@ -1,4 +1,4 @@
-# Chandrashekhar Kachawa 👋
+# Hi there, I'm Chandrashekhar Kachawa 👋
 
 <!-- <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
@@ -12,31 +12,27 @@
 # About ME 💬 :
 
 ### - I'm 24 years old Full Stack Developer from India.
-<div style="display:flex; gap:4rem;">
+  <img align="right" src="./assets/IMG_20250314_122041_568.webp" alt="GIF" width="400" height="400" >
+<!-- <div style="position: relative; display: inline-block; width: 400px; height: 400px;"> -->
+  <!-- <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.5);"></div> -->
+<!-- </div> -->
 
 <div>
   <h3>- Learning :</h3>
   <ul>
-    <li>✨ Data Structures & Algorithms</li>
-    <li>✨ Generative Adversarial Networks</li>
+    <li>✨ Golang Backend with Postgres right now...</li>
+    <li>✨ Unit Testing</li>
   </ul>
 
   <h3>- Hobbies :</h3>
   <ul>
-    <li>✨ Gaming Addict</li>
+    <li>✨ Singing (Spanish)</li>
     <li>✨ Watching Anime</li>
-    <li>✨ Reading Light Novels</li>
-    <li>✨ Badminton (Neighbourhood Professional XD)</li>
+    <li>✨ Workout</li>
+    <li>✨ Travelling</li>
   </ul>
 </div>
 
-
-<div style="position: relative; display: inline-block; width: 400px; height: 400px;">
-  <img src="./assets/IMG_20250314_122041_568.webp" alt="GIF" width="400" height="400" style="float: right;">
-  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.5);"></div>
-</div>
-
-</div>
 </br>
 </br>
 </br>
