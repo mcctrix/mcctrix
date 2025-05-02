@@ -1,9 +1,7 @@
 # Hi there, I'm Chandrashekhar Kachawa 👋
 
-
 </br> 
 </br>
-
 
 # About ME 💬 :
 
@@ -32,19 +30,18 @@
 </br>
 </br>
 
-
-
 # Languages & Tools 👨‍💻 🛠:
+
 </br>
 
 <p align="center">
 
-<img src="./assets/icons/golang_dark.svg" width="80" height="50" alt="GitHub Icon">
-<img src="./assets/icons/typescript.svg" width="80" height="50" alt="GitHub Icon">
-<img src="./assets/icons/nextjs_logo_dark.svg" width="80" height="50" alt="GitHub Icon">
-<img src="./assets/icons/postgresql.svg" width="80" height="50" alt="GitHub Icon">
-<img src="./assets/icons/firebase.svg" width="80" height="50" alt="GitHub Icon">
-<img src="./assets/icons/ubuntu.svg" width="80" height="50" alt="GitHub Icon">
+<img src="./assets/icons/golang_dark.svg" width="80" height="50" alt="Golang Icon">
+<img src="./assets/icons/typescript.svg" width="80" height="50" alt="Typescript Icon">
+<img src="./assets/icons/nextjs_logo_dark.svg" width="80" height="50" alt="Nextjs Icon">
+<img src="./assets/icons/postgresql.svg" width="80" height="50" alt="Postgres Icon">
+<img src="./assets/icons/firebase.svg" width="80" height="50" alt="Firebase Icon">
+<img src="./assets/icons/ubuntu.svg" width="80" height="50" alt="Ubuntu Icon">
 
 </p>
 
@@ -52,17 +49,14 @@
 </br>
 </br>
 
-
-
 # Contact Me :
 
 <p>
 </br>
 
-
 <p align="center">
 
-<a href="mailto:kachawaChandra@gmail.com">
+<a href="mailto:kachawaChandra@gmail.com" align="center">
  <img align="left" alt="Gmail" width="60" height="40" src="./assets/icons/gmail.svg" />
 </a>
 <a href="https://www.linkedin.com/in/chandrashekhar-kachawa-823017246/">
@@ -74,9 +68,8 @@
 
 </p>
 
-
 </br>
 </br>
 </br>
 
-*************
+---
