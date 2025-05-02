@@ -5,7 +5,7 @@
 
 # About ME 💬 :
 
-  <img align="right" src="https://github.com/mcctrix/mcctrix/tree/main/assets/IMG_20250314_122041_568.webp" alt="GIF" width="400" height="400" >
+  <img align="right" src="./assets/IMG_20250314_122041_568.webp" alt="GIF" width="400" height="400" >
 
 ### - I'm 24 years old Full Stack Developer from India.
 
@@ -36,12 +36,12 @@
 
 <p align="center">
 
-<img src="https://github.com/mcctrix/mcctrix/tree/main/assets/icons/golang_dark.svg" width="80" height="50" alt="Golang Icon">
-<img src="https://github.com/mcctrix/mcctrix/tree/main/assets/icons/typescript.svg" width="80" height="50" alt="Typescript Icon">
-<img src="https://github.com/mcctrix/mcctrix/tree/main/assets/icons/nextjs_logo_dark.svg" width="80" height="50" alt="Nextjs Icon">
-<img src="https://github.com/mcctrix/mcctrix/tree/main/assets/icons/postgresql.svg" width="80" height="50" alt="Postgres Icon">
-<img src="https://github.com/mcctrix/mcctrix/tree/main/assets/icons/firebase.svg" width="80" height="50" alt="Firebase Icon">
-<img src="https://github.com/mcctrix/mcctrix/tree/main/assets/icons/ubuntu.svg" width="80" height="50" alt="Ubuntu Icon">
+<img src="./assets/icons/golang_dark.svg" width="80" height="50" alt="Golang Icon">
+<img src="./assets/icons/typescript.svg" width="80" height="50" alt="Typescript Icon">
+<img src="./assets/icons/nextjs_logo_dark.svg" width="80" height="50" alt="Nextjs Icon">
+<img src="./assets/icons/postgresql.svg" width="80" height="50" alt="Postgres Icon">
+<img src="./assets/icons/firebase.svg" width="80" height="50" alt="Firebase Icon">
+<img src="./assets/icons/ubuntu.svg" width="80" height="50" alt="Ubuntu Icon">
 
 </p>
 
