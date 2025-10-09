@@ -36,6 +36,12 @@
 
 </div>
 
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+*I regularly write about software engineering, Python, TypeScript, and my coding journey. From technical deep-dives to beginner-friendly tutorials!*
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -72,6 +78,7 @@
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://www.ctrix.pro/)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/v9MNUtQE)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chandrashekhar-kachawa-823017246)
 [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Ctrixdev)
