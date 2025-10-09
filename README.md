@@ -38,7 +38,8 @@
 
 ### 📕 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->- 📄 **[Mastering Python Generators for Memory-Efficient Iteration](https://ctrixcode.vercel.app/blog/python/python-generators-efficient-iteration/)**- 📄 **[Mastering SQLModel: A Guide to Python Database Best Practices](https://ctrixcode.vercel.app/blog/python/sqlmodel-best-practices/)**- 📄 **[A Python Developer&#39;s Toolkit: Leveraging Four Essential Libraries](https://ctrixcode.vercel.app/blog/python/python-libraries-toolkit/)**- 📄 **[A Guided Tour of Python&#39;s Built-in Magic](https://ctrixcode.vercel.app/blog/python/python-built-in-functions/)**- 📄 **[The Absolute Magic of Python F-Strings You Need to Know!](https://ctrixcode.vercel.app/blog/python/f-string-magic/)**<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 *I regularly write about software engineering, Python, TypeScript, and my coding journey. From technical deep-dives to beginner-friendly tutorials!*
 
 ## 🛠️ Tech Stack

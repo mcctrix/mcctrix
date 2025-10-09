@@ -20,6 +20,7 @@ jobs:
           comment_tag_name: "BLOG-POST-LIST"
           feed_list: "https://www.ctrix.pro/rss.xml"
           max_post_count: 5
-          template: "- [$title]($url)"
-          disable_sort: true
-          filter_dates: true
+          template: "- **[$title]($url)**  "
+          commit_message: "Updated with the latest blog posts"
+          committer_username: "blog-post-bot"
+          committer_email: "blog-post-bot@example.com"
