@@ -38,7 +38,7 @@
 
 ### 📕 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->- 📄 **[Mastering Python Generators for Memory-Efficient Iteration](https://ctrixcode.vercel.app/blog/python/python-generators-efficient-iteration/)**- 📄 **[Mastering SQLModel: A Guide to Python Database Best Practices](https://ctrixcode.vercel.app/blog/python/sqlmodel-best-practices/)**- 📄 **[A Python Developer&#39;s Toolkit: Leveraging Four Essential Libraries](https://ctrixcode.vercel.app/blog/python/python-libraries-toolkit/)**- 📄 **[A Guided Tour of Python&#39;s Built-in Magic](https://ctrixcode.vercel.app/blog/python/python-built-in-functions/)**- 📄 **[The Absolute Magic of Python F-Strings You Need to Know!](https://ctrixcode.vercel.app/blog/python/f-string-magic/)**<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [Astro vs. Next.js: A Nuanced Choice for Modern Web Dev](https://ctrixcode.vercel.app/blog/astro-vs-nextjs/)- [Build Secure Authentication: The Right Way to Handle Tokens](https://ctrixcode.vercel.app/blog/build-secure-authentication-right-way-to-handle-tokens/)- [Setting-Up-Git-with-GitHub](https://ctrixcode.vercel.app/blog/setting-up-git-with-github/)- [A Practical Guide to Git Rebase and Force Push with Lease](https://ctrixcode.vercel.app/blog/git-rebase-force-push/)- [Git Guru: Juggling Multiple Accounts Like a Pro](https://ctrixcode.vercel.app/blog/git_multiple_accounts-ssh/)<!-- BLOG-POST-LIST:END -->
 *I regularly write about software engineering, Python, TypeScript, and my coding journey. From technical deep-dives to beginner-friendly tutorials!*
 
 ## 🛠️ Tech Stack
