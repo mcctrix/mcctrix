@@ -21,7 +21,7 @@
 
 ### 🎯 Currently Learning
 - ✨ Python & Apache Airflow
-- ✨ Discord API & Webhook Integration
+- ✨ Discord Server Management
 - ✨ System Design & Architecture
 
 </td>
