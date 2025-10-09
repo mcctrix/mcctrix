@@ -15,7 +15,7 @@
 - 💬 Ask me about **Software Engineering, Go, TypeScript, Next.js**
 - ⚡ Fun fact: I love singing in Spanish and watching anime!
 
-<img align="right" src="./assets/chil_tom_giff.gif" width="500" hight="400" alt="Chill Tom">
+<img align="right" src="./assets/chil_tom_giff.gif" width="500" height="275" alt="Chill Tom">
 
 ### 🎯 Currently Learning
 
