@@ -15,9 +15,9 @@
 - 💬 Ask me about **Software Engineering, Go, TypeScript, Next.js**
 - ⚡ Fun fact: I love singing in Spanish and watching anime!
 
-<table>
+<table width="100%">
 <tr>
-<td width="45%" valign="top">
+<td width="40%" valign="top">
 
 ### 🎯 Currently Learning
 - ✨ Python & Apache Airflow
@@ -25,8 +25,8 @@
 - ✨ System Design & Architecture
 
 </td>
-<td width="10%"></td>
-<td width="45%" valign="top">
+<td width="20%"></td>
+<td width="40%" valign="top" align="right">
 
 ### 🎨 Hobbies & Interests
 - 🎵 Singing (Spanish)
