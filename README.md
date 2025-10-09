@@ -36,9 +36,17 @@
 
 </div>
 
-### 📝 Check out [ctrix.pro/blog](https://www.ctrix.pro/blog)
+<div align="center">
 
-*I regularly write about software engineering, Python, TypeScript, and my coding journey. From technical deep-dives to beginner-friendly tutorials!*
+📝 **[Read my latest posts →](https://ctrix.pro/blog)**  
+
+<i>I write about software engineering, Python, TypeScript, and my coding journey —  
+
+from technical deep-dives to beginner-friendly tutorials.</i>
+
+</div>
+
+
 
 ## 🛠️ Tech Stack
 
