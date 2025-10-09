@@ -26,7 +26,7 @@
 
 </td>
 <td width="20%"></td>
-<td width="40%" valign="top" align="right">
+<td width="40%" valign="top">
 
 ### 🎨 Hobbies & Interests
 - 🎵 Singing (Spanish)
@@ -107,12 +107,6 @@
 ### 💭 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🎵 Currently Vibing To
-
-[![Spotify](https://novatorem-ctrix.vercel.app/api/spotify)](https://open.spotify.com/user/ctrix)
-
 **Thanks for visiting! 😄**
-
-![Visitor Count](https://profile-counter.glitch.me/ctrix/count.svg)
 
 </div>
