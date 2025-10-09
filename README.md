@@ -15,9 +15,7 @@
 - 💬 Ask me about **Software Engineering, Go, TypeScript, Next.js**
 - ⚡ Fun fact: I love singing in Spanish and watching anime!
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+<img align="right" src="./assets/chil_tom_giff.gif" width="300px" alt="Chill Tom">
 
 ### 🎯 Currently Learning
 - ✨ Python & Apache Airflow
@@ -29,15 +27,6 @@
 - 📺 Watching Anime
 - 💪 Workout & Fitness
 - ✈️ Travelling & Exploring
-
-</td>
-<td width="50%" align="center">
-
-<img src="./assets/chil_tom_giff.gif" width="300px" alt="Chill Tom">
-
-</td>
-</tr>
-</table>
 
 <div align="center">
   
