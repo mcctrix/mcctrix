@@ -1,77 +1,117 @@
-<h1> Hi there, I'm Chandrashekhar Kachawa <img src="./assets/Gible_Happy.gif" width="40px" height="40px"> </h1>
-
-</br> 
-
-# About ME 💬 :
-
-  <!-- <img align="right" src="./assets/IMG_20250314_122041_568.webp" alt="GIF" width="400" height="400" > -->
-
-### - I'm 24 years old Full Stack Developer from India.
-
-
-<div>
-  <h3>- Learning :</h3>
-  <ul>
-    <li>✨ Golang Backend with Postgres right now...</li>
-    <li>✨ Unit Testing</li>
-  </ul>
-
-  <h3>- Hobbies :</h3>
-  <ul>
-    <li>✨ Singing (Spanish)</li>
-    <li>✨ Watching Anime</li>
-    <li>✨ Workout</li>
-    <li>✨ Travelling</li>
-  </ul>
+<div align="center">
+  <h1>Hi there, I'm Chandrashekhar Kachawa <img src="./assets/Gible_Happy.gif" width="40px" height="40px"></h1>
+  
+  <p><em>24-year-old Software Engineer from India 🇮🇳</em></p>
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Software+Engineer;Golang+%26+TypeScript+Enthusiast;Always+learning+new+things)](https://git.io/typing-svg)
 </div>
 
+---
+
+## 🚀 About Me
+
+- 🔭 I'm currently working on **Discord Webhook Manager** and **Apache Airflow**
+- 🌱 I'm currently learning **Python** and exploring new technologies
+- 💬 Ask me about **Software Engineering, Go, TypeScript, Next.js**
+- ⚡ Fun fact: I love singing in Spanish and watching anime!
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 Currently Learning
+- ✨ Python & Apache Airflow
+- ✨ Discord API & Webhook Integration
+- ✨ System Design & Architecture
+
+</td>
+<td width="50%" valign="top">
+
+### 🎨 Hobbies & Interests
+- 🎵 Singing (Spanish)
+- 📺 Watching Anime
+- 💪 Workout & Fitness
+- ✈️ Travelling & Exploring
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+  
 [![An image of @ctrix's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ctrix)](https://holopin.io/@ctrix)
 
-</br>
-</br>
-</br>
-</br>
+</div>
 
-# Languages & Tools 👨‍💻 🛠:
+## 🛠️ Tech Stack
 
-</br>
+<div align="center">
 
-<p align="center">
+### Languages
 
-<img src="./assets/icons/golang_dark.svg" width="80" height="50" alt="Golang Icon">
-<img src="./assets/icons/typescript.svg" width="80" height="50" alt="Typescript Icon">
-<img src="./assets/icons/nextjs_logo_dark.svg" width="80" height="50" alt="Nextjs Icon">
-<img src="./assets/icons/postgresql.svg" width="80" height="50" alt="Postgres Icon">
-<img src="./assets/icons/firebase.svg" width="80" height="50" alt="Firebase Icon">
-<img src="./assets/icons/ubuntu.svg" width="80" height="50" alt="Ubuntu Icon">
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-</p>
+### Frontend
 
-</br>
-</br>
-</br>
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-# Contact Me :
+### Backend & Database
 
-<p>
-</br>
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-<p align="center">
+### Tools & OS
 
-<a href="mailto:kachawaChandra@gmail.com" align="center">
- <img align="left" alt="Gmail" width="60" height="40" src="./assets/icons/gmail.svg" />
-</a>
-<a href="https://www.linkedin.com/in/chandrashekhar-kachawa-823017246/">
-  <img align="left" alt="Linkedin" width="60" height="40" src="./assets/icons/linkedin.svg" />
-</a>
-<a href="https://x.com/Ctrixdev">
-  <img align="left" alt="Linkedin" width="60" height="40" src="./assets/icons/x_dark.svg" />
-</a>
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-</p>
-
-</br>
-</br>
-</br>
+</div>
 
 ---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ctrix&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ctrix&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ctrix&theme=radical&hide_border=true)
+
+</div>
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kachawaChandra@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandrashekhar-kachawa-823017246/)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Ctrixdev)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💭 Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🎵 Currently Vibing To
+
+[![Spotify](https://novatorem-ctrix.vercel.app/api/spotify)](https://open.spotify.com/user/ctrix)
+
+**Thanks for visiting! 😄**
+
+![Visitor Count](https://profile-counter.glitch.me/ctrix/count.svg)
+
+</div>
