@@ -3,7 +3,7 @@
   
   <p><em>24-year-old Software Engineer from India 🇮🇳</em></p>
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Software+Engineer;Golang+%26+TypeScript+Enthusiast;Always+learning+new+things)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Always+building+something+cool;Software+Engineer;Love+Python;TypeScript+%26+Golang+Enthusiast)](https://git.io/typing-svg)
 </div>
 
 ---
