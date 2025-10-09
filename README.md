@@ -17,22 +17,23 @@
 
 <table width="100%">
 <tr>
-<td width="40%" valign="top">
+<td width="50%" valign="top">
 
 ### 🎯 Currently Learning
 - ✨ Python & Apache Airflow
 - ✨ Discord Server Management
 - ✨ System Design & Architecture
 
-</td>
-<td width="20%"></td>
-<td width="40%" valign="top" align="right">
-
 ### 🎨 Hobbies & Interests
 - 🎵 Singing (Spanish)
 - 📺 Watching Anime
 - 💪 Workout & Fitness
 - ✈️ Travelling & Exploring
+
+</td>
+<td width="50%" align="center">
+
+<img src="./assets/chil_tom_giff.gif" width="300px" alt="Chill Tom">
 
 </td>
 </tr>
@@ -80,14 +81,13 @@
 
 ## 🌐 Connect With Me
 
-<div align="center">
-
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/v9MNUtQE)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chandrashekhar-kachawa-823017246)
-[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Ctrixdev)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:coderck@proton.me)
 
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chandrashekhar-kachawa-823017246)
+
+[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Ctrixdev)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:coderck@proton.me)
 
 # 📊 GitHub Stats:
 
