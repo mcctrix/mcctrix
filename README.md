@@ -47,7 +47,7 @@
 <!-- Languages Section -->
 <div>
 
-## 💻 Languages
+<h3 align="center">💻 Languages</h3>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
@@ -61,7 +61,7 @@
 <!-- Frontend Section -->
 <div style="margin-top: 40px;">
 
-## 🎨 Frontend
+<h3 align="center">🎨 Frontend</h3>
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -74,7 +74,7 @@
 <!-- Backend & Database Section -->
 <div style="margin-top: 40px;">
 
-## ⚙️ Backend & Database
+<h3 align="center">⚙️ Backend & Database</h3>
 
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -88,7 +88,7 @@
 <!-- Tools & OS Section -->
 <div style="margin-top: 40px;">
 
-## 🔧 Tools & OS
+<h3 align="center">🔧 Tools & OS</h3>
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
