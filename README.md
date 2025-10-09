@@ -17,7 +17,7 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="45%" valign="top">
 
 ### 🎯 Currently Learning
 - ✨ Python & Apache Airflow
@@ -25,7 +25,8 @@
 - ✨ System Design & Architecture
 
 </td>
-<td width="50%" valign="top">
+<td width="10%"></td>
+<td width="45%" valign="top">
 
 ### 🎨 Hobbies & Interests
 - 🎵 Singing (Spanish)
