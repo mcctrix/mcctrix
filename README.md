@@ -15,14 +15,16 @@
 - 💬 Ask me about **Software Engineering, Go, TypeScript, Next.js**
 - ⚡ Fun fact: I love singing in Spanish and watching anime!
 
-<img align="right" src="./assets/chil_tom_giff.gif" width="300px" alt="Chill Tom">
+<img align="right" src="./assets/chil_tom_giff.gif" width="500" hight="400" alt="Chill Tom">
 
 ### 🎯 Currently Learning
+
 - ✨ Python & Apache Airflow
 - ✨ Discord Server Management
 - ✨ System Design & Architecture
 
 ### 🎨 Hobbies & Interests
+
 - 🎵 Singing (Spanish)
 - 📺 Watching Anime
 - 💪 Workout & Fitness
@@ -66,8 +68,6 @@
 
 </div>
 
-
-
 ## 🌐 Connect With Me
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/v9MNUtQE)
@@ -81,7 +81,7 @@
 # 📊 GitHub Stats:
 
 | <a href="https://github.com/ctrixcode"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ctrixcode&show_icons=true&include_all_commits=true&theme=dark&hide_border=false" alt="Chandrashekhar's github stats" /></a> | <a href="https://github.com/ctrixcode"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctrixcode&layout=compact&theme=dark&hide_border=false" /></a> |
-| ------------- | ------------- |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <div align="center">
 
@@ -92,14 +92,17 @@
 <div align="center">
 
 ### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
+
 ![](https://github-contributor-stats.vercel.app/api?username=ctrixcode&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 </div>
 
 ---
+
 <div align="center">
 
 **Thanks for visiting! 😄**
