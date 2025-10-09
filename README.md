@@ -4,9 +4,10 @@
 
 # About ME 💬 :
 
-  <img align="right" src="./assets/IMG_20250314_122041_568.webp" alt="GIF" width="400" height="400" >
+  <!-- <img align="right" src="./assets/IMG_20250314_122041_568.webp" alt="GIF" width="400" height="400" > -->
 
 ### - I'm 24 years old Full Stack Developer from India.
+
 
 <div>
   <h3>- Learning :</h3>
@@ -23,6 +24,8 @@
     <li>✨ Travelling</li>
   </ul>
 </div>
+
+[![An image of @ctrix's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ctrix)](https://holopin.io/@ctrix)
 
 </br>
 </br>
