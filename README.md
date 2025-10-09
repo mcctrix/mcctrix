@@ -40,6 +40,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+➡️ **[Read more on ctrix.pro](https://www.ctrix.pro)**
 *I regularly write about software engineering, Python, TypeScript, and my coding journey. From technical deep-dives to beginner-friendly tutorials!*
 
 ## 🛠️ Tech Stack
