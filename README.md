@@ -70,13 +70,14 @@
 
 ## 🌐 Connect With Me
 
+<div align="center">
+
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/v9MNUtQE)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chandrashekhar-kachawa-823017246)
-
 [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Ctrixdev)
-
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:coderck@proton.me)
+
+</div>
 
 # 📊 GitHub Stats:
 
