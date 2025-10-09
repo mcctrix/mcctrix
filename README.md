@@ -92,9 +92,9 @@
 
 <div align="center">
 
-### ✍️ Random Dev Quote
+<!-- ### ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
 
 ### 🔝 Top Contributed Repo
 
@@ -106,6 +106,12 @@
 
 <div align="center">
 
+### 🎯 Let's Build Something Amazing Together!
+
 **Thanks for visiting! 😄**
+
+<img src="https://komarev.com/ghpvc/?username=ctrixcode&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+
+*"Code is like humor. When you have to explain it, it's bad." - Cory House*
 
 </div>
