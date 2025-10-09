@@ -92,6 +92,14 @@
 
 <div align="center">
 
+### 📈 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=ctrixcode&theme=react-dark&hide_border=true&area=true)
+
+</div>
+
+<div align="center">
+
 <!-- ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
