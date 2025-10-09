@@ -26,7 +26,7 @@
 
 </td>
 <td width="20%"></td>
-<td width="40%" valign="top">
+<td width="40%" valign="top" align="right">
 
 ### 🎨 Hobbies & Interests
 - 🎵 Singing (Spanish)
