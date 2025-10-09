@@ -98,18 +98,6 @@
 
 </div>
 
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://www.ctrix.pro/)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/v9MNUtQE)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chandrashekhar-kachawa-823017246)
-[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Ctrixdev)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:coderck@proton.me)
-
-</div>
-
 # 📊 GitHub Stats:
 
 | <a href="https://github.com/ctrixcode"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ctrixcode&show_icons=true&include_all_commits=true&theme=dark&hide_border=false" alt="Chandrashekhar's github stats" /></a> | <a href="https://github.com/ctrixcode"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctrixcode&layout=compact&theme=dark&hide_border=false" /></a> |
@@ -138,6 +126,18 @@
 ### 🏆 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=ctrixcode&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+</div>
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://www.ctrix.pro/)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/v9MNUtQE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chandrashekhar-kachawa-823017246)
+[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Ctrixdev)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:coderck@proton.me)
 
 </div>
 
